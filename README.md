@@ -276,8 +276,6 @@ Machine Learning-based healthcare application for early breast cancer risk predi
 
 ---
 
----
-
 ## 🏅 GitHub Trophies
 
 <div align="center">
