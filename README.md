@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Balamurugan%20A&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=AI%20%26%20Full%20Stack%20Developer%20%7C%20Competitive%20Programmer&descAlignY=55&descSize=16"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=gradient&customColorList=6,11,20&text=Balamurugan%20A&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=AI%20%7C%20Full%20Stack%20Developer%20%7C%20Competitive%20Programmer&descSize=18&descAlignY=58"/>
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=850&lines=1000%2B+Problems+Solved+%F0%9F%9A%80;Artificial+Intelligence+%26+Data+Science+Student+%F0%9F%A4%96;Full+Stack+Developer+%F0%9F%92%BB;Building+AI-Powered+Web+Applications+%F0%9F%8C%90;Machine+Learning+Enthusiast+%F0%9F%A4%96;Always+Learning+Something+New+%F0%9F%8C%B1)](https://github.com/kit2824bad025)
 
@@ -16,7 +16,7 @@
 
 ![Profile Views](https://komarev.com/ghpvc/?username=kit2824bad025&label=Profile+Views&color=0e75b6&style=flat)
 ![Problems Solved](https://img.shields.io/badge/Problems%20Solved-1000%2B-brightgreen?style=flat)
-![CGPA](https://img.shields.io/badge/CGPA-9.44%2F10-blue?style=flat)
+![CGPA](https://img.shields.io/badge/CGPA-8.85%2F10-blue?style=flat)
 ![Year](https://img.shields.io/badge/Year-3rd-orange?style=flat)
 ![Open To Work](https://img.shields.io/badge/Open%20To-Work-success?style=flat)
 
@@ -273,6 +273,8 @@ Machine Learning-based healthcare application for early breast cancer risk predi
 </picture>
 
 </div>
+
+---
 
 ---
 
